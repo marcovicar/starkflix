@@ -9,8 +9,9 @@ function Footer() {
       <img className="Logo" src={Logo} alt="StarkFlix Logo"/>
       </a>
       <p>
-        Prótotipo de uma NetFlix
+        Prótotipo de uma NetFlix        
       </p>
+      <p>Criado por: @marcovicar</p>
     </FooterBase>
   );
 }
